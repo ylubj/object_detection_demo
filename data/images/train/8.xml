@@ -1,122 +1,38 @@
 <annotation>
-	<folder>images</folder>
+	<folder>raw butterfly</folder>
 	<filename>8.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\8.jpg</path>
+	<path>C:\Users\frank\Desktop\raw butterfly\8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>225</width>
+		<height>225</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>butterfly</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>407</xmin>
-			<ymin>161</ymin>
-			<xmax>529</xmax>
-			<ymax>291</ymax>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>119</xmax>
+			<ymax>132</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>flower</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>491</xmin>
-			<ymin>218</ymin>
-			<xmax>649</xmax>
-			<ymax>346</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>657</xmin>
-			<ymin>244</ymin>
-			<xmax>790</xmax>
-			<ymax>369</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>49</xmin>
-			<ymin>267</ymin>
-			<xmax>210</xmax>
-			<ymax>373</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>233</xmin>
-			<ymin>264</ymin>
-			<xmax>403</xmax>
-			<ymax>358</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>251</xmin>
-			<ymin>407</ymin>
-			<xmax>372</xmax>
-			<ymax>559</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>245</xmin>
-			<ymin>92</ymin>
-			<xmax>326</xmax>
-			<ymax>216</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>400</xmin>
-			<ymin>320</ymin>
-			<xmax>476</xmax>
-			<ymax>394</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>379</xmin>
-			<ymin>487</ymin>
-			<xmax>459</xmax>
-			<ymax>545</ymax>
+			<xmin>47</xmin>
+			<ymin>134</ymin>
+			<xmax>125</xmax>
+			<ymax>177</ymax>
 		</bndbox>
 	</object>
 </annotation>
